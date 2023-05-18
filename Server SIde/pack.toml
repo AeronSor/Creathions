@@ -1,0 +1,13 @@
+name = "Creathions Serverside"
+author = "AeronSor"
+version = "0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fc847adcab6eb603df69419232a60c23166ca23fddec482d0eb1f226efa0cb28"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.18.2"

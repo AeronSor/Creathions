@@ -1,0 +1,13 @@
+name = "Creathions"
+author = "AeronSor"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f1a111476e7a6eedee2c22d2887d4262a6e4e9823650bc85d0faff5ff4633a3b"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.18.2"
