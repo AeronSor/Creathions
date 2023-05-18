@@ -37,7 +37,6 @@ Xaero's Minimap
 Zoomify
 Dynamic Fps
 When Dungeons Arise
-Supplementaries
 Emotecraft
 Animatica
 Immersive Armors
