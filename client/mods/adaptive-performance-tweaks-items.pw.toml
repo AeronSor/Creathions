@@ -1,0 +1,13 @@
+name = "Adaptive Performance Tweaks: Items"
+filename = "adaptive_performance_tweaks_items_1.18.2-3.21.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d2593dc45ef9c4fbf16dceb694e397e76f89fd1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4521912
+project-id = 561439

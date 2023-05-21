@@ -1,0 +1,13 @@
+name = "Creathions Server"
+author = "AeronSor"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e835e80e687042a841181c349d42135cbfdc34e266dadc06fe574f1e1c123825"
+
+[versions]
+forge = "40.2.4"
+minecraft = "1.18.2"
