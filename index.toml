@@ -5,10 +5,6 @@ file = "README.MD"
 hash = "f3b3c2759397f41a18df8d31c505e7c60394c4b5459f560c536e98557dd8ae29"
 
 [[files]]
-file = "modlist.txt"
-hash = "65b91f8bf18a40bf7f82e79fbfe7c1bf8472a220a1507fa9b1e2568c5f766310"
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
 metafile = true
@@ -190,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "44adf13d7981264098ef73a1e914bcf4c759f170b3aedad4038a6967f89864dd"
+hash = "3d22456ed14c5f4abaf5a1b3dfcfaff3626f595f353176eec276f70dffdef6fd"
 metafile = true
 
 [[files]]
@@ -334,6 +330,11 @@ hash = "f98a33ac44944f67b3a4e4d6693c7ec0eb07ad09615f690828b86a0e938f94bf"
 metafile = true
 
 [[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "701c5388f582e7472e796265fb430c36d751313be7468fb67e4abb86d0875846"
+metafile = true
+
+[[files]]
 file = "mods/its-the-little-things.pw.toml"
 hash = "a6638b28b63068b5e8dcec4dd125f96a7899897a0a177683ca195ef1b0213a55"
 metafile = true
@@ -464,6 +465,11 @@ hash = "39a7725a41cc350f8ab4de37432616f4e60ce1f00ee32bada39336ec365a24da"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "5c4ef6fc05ddfca64bc987576a913d563aeda648a906ff693cdfe94e003d903e"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
 metafile = true
@@ -551,7 +557,3 @@ metafile = true
 [[files]]
 file = "server-icon.png"
 hash = "ee8bcc1f29c599c74ea1600ab58ebfceb157b5cc1a9d784ddbcd38529e75c5b2"
-
-[[files]]
-file = "update.sh"
-hash = "f5fcbf6a4bc116ba98fcc94afda18b7330a5ee068f0869689715d35e22851904"

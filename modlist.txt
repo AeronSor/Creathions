@@ -1,4 +1,4 @@
-https://www.curseforge.com/minecraft/mc-mods/create
+https://www.curseforge.com/minecraft/mc-mods/create/files/4371807
 https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails
 https://www.curseforge.com/minecraft/mc-mods/create-crystal-clear
 https://www.curseforge.com/minecraft/mc-mods/createplus
@@ -111,3 +111,5 @@ https://www.curseforge.com/minecraft/mc-mods/ctm
 https://www.curseforge.com/minecraft/mc-mods/creativecore
 https://www.curseforge.com/minecraft/mc-mods/blueprint
 https://www.curseforge.com/minecraft/mc-mods/citadel
+https://www.curseforge.com/minecraft/mc-mods/integrated-api
+https://www.curseforge.com/minecraft/mc-mods/sophisticated-core
