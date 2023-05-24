@@ -1,6 +1,8 @@
+https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay
+https://www.curseforge.com/minecraft/mc-mods/chunkpregenerators
+
 https://www.curseforge.com/minecraft/mc-mods/create/files/4371807
 https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails
-https://www.curseforge.com/minecraft/mc-mods/create-crystal-clear
 https://www.curseforge.com/minecraft/mc-mods/createplus
 https://www.curseforge.com/minecraft/mc-mods/createaddition
 https://www.curseforge.com/minecraft/mc-mods/thermal-foundation
@@ -20,7 +22,10 @@ https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus
 https://www.curseforge.com/minecraft/mc-mods/ars-nouveau
 https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
 https://www.curseforge.com/minecraft/mc-mods/beyond-earth
-https://www.curseforge.com/minecraft/mc-mods/its-the-little-things
+https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/4381350
+https://www.curseforge.com/minecraft/mc-mods/better-third-person
+https://www.curseforge.com/minecraft/mc-mods/terralith
+https://www.curseforge.com/minecraft/mc-mods/paxi
 
 https://www.curseforge.com/minecraft/mc-mods/jei
 https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep
@@ -56,7 +61,7 @@ https://www.curseforge.com/minecraft/mc-mods/potion-id-packet-fixer
 https://www.curseforge.com/minecraft/mc-mods/limited-chunkloading
 https://www.curseforge.com/minecraft/mc-mods/clumps
 https://www.curseforge.com/minecraft/mc-mods/my-server-is-compatible
-https://www.curseforge.com/minecraft/mc-mods/out-of-sight
+https://www.curseforge.com/minecraft/mc-mods/magnesium-extras
 
 https://www.curseforge.com/minecraft/mc-mods/farmers-delight
 https://www.curseforge.com/minecraft/mc-mods/nethers-delight
@@ -72,7 +77,6 @@ https://www.curseforge.com/minecraft/mc-mods/energymeter
 https://www.curseforge.com/minecraft/mc-mods/idas
 https://www.curseforge.com/minecraft/texture-packs/idas-alexs-mobs
 https://www.curseforge.com/minecraft/texture-packs/idas-bop
-https://www.curseforge.com/minecraft/mc-mods/supplementaries
 https://www.curseforge.com/minecraft/mc-mods/quark
 https://www.curseforge.com/minecraft/mc-mods/alexs-mobs
 https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks
@@ -98,8 +102,7 @@ https://www.curseforge.com/minecraft/mc-mods/configured
 https://www.curseforge.com/minecraft/mc-mods/too-fast
 https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops
 https://www.curseforge.com/minecraft/mc-mods/dynamic-view
-https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay
-https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator
+https://www.curseforge.com/minecraft/mc-mods/farsight,
 
 https://www.curseforge.com/minecraft/mc-mods/terrablender
 https://www.curseforge.com/minecraft/mc-mods/flywheel
@@ -113,3 +116,15 @@ https://www.curseforge.com/minecraft/mc-mods/blueprint
 https://www.curseforge.com/minecraft/mc-mods/citadel
 https://www.curseforge.com/minecraft/mc-mods/integrated-api
 https://www.curseforge.com/minecraft/mc-mods/sophisticated-core
+https://www.curseforge.com/minecraft/mc-mods/yungs-api
+
+https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments
+https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples
+https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge
+https://www.curseforge.com/minecraft/mc-mods/yungs-bridges
+https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts
+https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses
+https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds
+https://www.curseforge.com/minecraft/mc-mods/travelers-titles
+https://www.curseforge.com/minecraft/texture-packs/visual-travelers-titles
+https://www.curseforge.com/minecraft/texture-packs/construct-combat

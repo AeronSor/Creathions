@@ -1,0 +1,13 @@
+name = "Construct Combat (Datapack)"
+filename = "constructcombat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8f7c2d041843a3cd3e5cb4b6a716ccf158fb92c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4022205
+project-id = 687029
